@@ -1,10 +1,10 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "Just Another Text Editor",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "concurrently \" cd server && nodemon server.js\" \"cd client && npm start\"",
+    "start:dev": "concurrently \"cd server && nodemon server.js\" \"cd client && npm start\"",
     "start": "npm run build && cd server && node server.js",
     "server": "cd server && nodemon server.js --ignore client",
     "build": "cd client && npm run build",
