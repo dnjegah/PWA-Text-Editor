@@ -33,7 +33,9 @@ To install the application's dependencies and devDependencies, run: 'npm install
 To invoke the application, run: 'npm run start'
 
 ### Usage
-Please see the video and screenshots.
+[Link to install app](https://pwa-text-editor-3-6lhq.onrender.com/)
+
+screenshots.
 ![screenshot](image.png)
 ![screenshot2](image-1.png)
 ### Features and Functionalities
