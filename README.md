@@ -34,7 +34,8 @@ To invoke the application, run: 'npm run start'
 
 ### Usage
 Please see the video and screenshots.
-
+![screenshot](image.png)
+![screenshot2](image-1.png)
 ### Features and Functionalities
 This application is developed to allow users to create notes or code snippets with or without an internet connection, so users can reliably retrieve them for later use. It follows the features and functionalities required in the Assignment's README:
 
